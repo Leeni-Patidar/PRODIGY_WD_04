@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const apiKey = '38d45f29f731b3bfb4b51dd98823d1e2';
+    const apiKey = 'yourapikey';
     const searchButton = document.getElementById('search-button');
     const locationInput = document.getElementById('location-input');
     const locationName = document.getElementById('location-name');
